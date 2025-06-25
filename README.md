@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="ChatGPT Image Jun 25, 2025, 09_46_12 AM.png" alt="Banner" width="100%" />
+  <img src="Kawsar Habib Munna (1).svg" alt="Banner" width="100%" />
 </p>
 
 <h1><img src="programmer_2862571.png" alt="Programmer Icon" width="30" height="30"> About Me</h1>
 
-I'm Kawsar — a dedicated and detail-oriented software developer passionate about building reliable, maintainable, and scalable applications. I value clean code, continuous learning, and modern development best practices.
+I'm Kawsar — a frontend-focused web developer with a strong eye for detail and a passion for creating fast, scalable, and accessible user experiences. I specialize in building modern web interfaces using the MERN stack and a design-driven development approach.
 
-- 💼 Currently focused on expanding expertise in full-stack development and cloud infrastructure.
-- 🧠 Learning and applying technologies like TypeScript, React, Node.js, and Docker.
-- 🤝 Enjoy contributing to collaborative projects that emphasize code quality, testing, and documentation.
-- 🎯 Committed to delivering efficient, user-centric solutions aligned with business goals.
-- 📬 Reach me at: [kawsarhabib.web@gmail.com](mailto:kawsarhabib.web@gmail.com)
+- Currently focused on crafting responsive, user-centric applications with React, Tailwind CSS, and Next.js.  
+- Learning and applying best practices in performance optimization, state management, and TypeScript.  
+- I enjoy collaborating on projects that prioritize clean architecture, reusability, and UI/UX excellence.  
+- Committed to writing maintainable code and delivering polished, production-ready interfaces.
+
+- Reach me at: [kawsarhabib.web@gmail.com](mailto:kawsarhabib.web@gmail.com)
 
 ---
 
